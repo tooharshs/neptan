@@ -1,0 +1,26 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    background-image: url(../eee.png);}
+    .A {
+        background-color: rgba(255, 255, 255, 0.5);
+        max-width: 20;
+        max-height: 50px;
+        box-shadow: 1px 4px 50px 20px rgba(255, 255, 255, 0.055);
+        text-align: center;
+    }
+    .T {
+        background-color: rgba(255, 255, 255, 0.5);
+        max-width: 20;
+        max-height: 50px;
+        box-shadow: 1px 4px 50px 20px rgba(255, 255, 255, 0.055);
+        text-align: center;
+    }
+    .L {
+        background-color: rgba(254, 255, 198, 0.932);
+        max-width: 20;
+        max-height: 50px;
+        box-shadow: 1px 4px 50px 20px rgba(254, 255, 198, 0.774);
+        text-align: center;
+    }
