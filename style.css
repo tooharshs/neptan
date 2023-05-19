@@ -37,7 +37,7 @@
     font-size: 20px;
     font-family: monospace;
     white-space: nowrap;
-    border-right: 4px solid orange;
+    border-right: 4px solid blue;
     animation: printed-text 5s steps(21),
         flashin-border .75s step-start infinite;
 }
